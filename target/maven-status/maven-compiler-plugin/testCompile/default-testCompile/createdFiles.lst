@@ -1,0 +1,7 @@
+com\OrangeHRM\TestCases\TC002_ClickingOn_ForgotPassword_Link.class
+com\OrangeHRM\TestCases\TC003_ClickingOn_LogOut.class
+com\OrangeHRM\TestBase\BaseClass.class
+com\OrangeHRM\PageObjects\LoginPage.class
+com\OrangeHRM\TestCases\TC001_LoginTest_Normal_Way.class
+com\OrangeHRM\Utilities\ExtentReportManager.class
+com\OrangeHRM\TestCases\TC001_LoginTest_CallingFrom_BaseClass.class

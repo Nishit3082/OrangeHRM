@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="OrangeHRM" duration-ms="13621" started-at="2021-07-08T17:16:09Z" finished-at="2021-07-08T17:16:22Z">
+    <groups>
+    </groups>
+    <test name="TC001_LoginTest_CallingFrom_BaseClass" duration-ms="10355" started-at="2021-07-08T17:16:09Z" finished-at="2021-07-08T17:16:19Z">
+      <class name="com.OrangeHRM.TestCases.TC001_LoginTest_CallingFrom_BaseClass">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.OrangeHRM.TestCases.TC001_LoginTest_CallingFrom_BaseClass@916eb0]" name="setup" is-config="true" duration-ms="3750" started-at="2021-07-08T17:16:09Z" finished-at="2021-07-08T17:16:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.OrangeHRM.TestCases.TC001_LoginTest_CallingFrom_BaseClass@916eb0]" name="test" duration-ms="5390" started-at="2021-07-08T17:16:13Z" finished-at="2021-07-08T17:16:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.OrangeHRM.TestCases.TC001_LoginTest_CallingFrom_BaseClass@916eb0]" name="tearDown" is-config="true" duration-ms="1038" started-at="2021-07-08T17:16:18Z" finished-at="2021-07-08T17:16:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.OrangeHRM.TestCases.TC001_LoginTest_CallingFrom_BaseClass -->
+    </test> <!-- TC001_LoginTest_CallingFrom_BaseClass -->
+    <test name="TC002_ClickingOn_ForgotPassword_Link" duration-ms="10418" started-at="2021-07-08T17:16:09Z" finished-at="2021-07-08T17:16:19Z">
+      <class name="com.OrangeHRM.TestCases.TC002_ClickingOn_ForgotPassword_Link">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.OrangeHRM.TestCases.TC002_ClickingOn_ForgotPassword_Link@957e06]" name="setup" is-config="true" duration-ms="3792" started-at="2021-07-08T17:16:09Z" finished-at="2021-07-08T17:16:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="forgotpasswordlink()[pri:0, instance:com.OrangeHRM.TestCases.TC002_ClickingOn_ForgotPassword_Link@957e06]" name="forgotpasswordlink" duration-ms="3109" started-at="2021-07-08T17:16:13Z" finished-at="2021-07-08T17:16:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotpasswordlink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.OrangeHRM.TestCases.TC002_ClickingOn_ForgotPassword_Link@957e06]" name="tearDown" is-config="true" duration-ms="3326" started-at="2021-07-08T17:16:16Z" finished-at="2021-07-08T17:16:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.OrangeHRM.TestCases.TC002_ClickingOn_ForgotPassword_Link -->
+    </test> <!-- TC002_ClickingOn_ForgotPassword_Link -->
+    <test name="TC001_LoginTest_Normal_Way" duration-ms="10403" started-at="2021-07-08T17:16:09Z" finished-at="2021-07-08T17:16:19Z">
+      <class name="com.OrangeHRM.TestCases.TC001_LoginTest_Normal_Way">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.OrangeHRM.TestCases.TC001_LoginTest_Normal_Way@72f59f]" name="setup" is-config="true" duration-ms="3552" started-at="2021-07-08T17:16:09Z" finished-at="2021-07-08T17:16:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.OrangeHRM.TestCases.TC001_LoginTest_Normal_Way@72f59f]" name="test" duration-ms="4783" started-at="2021-07-08T17:16:12Z" finished-at="2021-07-08T17:16:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.OrangeHRM.TestCases.TC001_LoginTest_Normal_Way@72f59f]" name="tearDown" is-config="true" duration-ms="1883" started-at="2021-07-08T17:16:17Z" finished-at="2021-07-08T17:16:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.OrangeHRM.TestCases.TC001_LoginTest_Normal_Way -->
+    </test> <!-- TC001_LoginTest_Normal_Way -->
+    <test name="TC003_ClickingOn_LogOut" duration-ms="13620" started-at="2021-07-08T17:16:09Z" finished-at="2021-07-08T17:16:22Z">
+      <class name="com.OrangeHRM.TestCases.TC003_ClickingOn_LogOut">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.OrangeHRM.TestCases.TC003_ClickingOn_LogOut@10222c1]" name="setup" is-config="true" duration-ms="3941" started-at="2021-07-08T17:16:09Z" finished-at="2021-07-08T17:16:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.OrangeHRM.TestCases.TC003_ClickingOn_LogOut@10222c1]" name="logout" duration-ms="8693" started-at="2021-07-08T17:16:13Z" finished-at="2021-07-08T17:16:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.OrangeHRM.TestCases.TC003_ClickingOn_LogOut@10222c1]" name="tearDown" is-config="true" duration-ms="931" started-at="2021-07-08T17:16:21Z" finished-at="2021-07-08T17:16:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.OrangeHRM.TestCases.TC003_ClickingOn_LogOut -->
+    </test> <!-- TC003_ClickingOn_LogOut -->
+  </suite> <!-- OrangeHRM -->
+</testng-results>
