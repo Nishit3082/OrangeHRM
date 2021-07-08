@@ -1,0 +1,2 @@
+This is POM framework
+Created to push and pull after applying all the GIT commands.
